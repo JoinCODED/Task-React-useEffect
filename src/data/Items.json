@@ -1,0 +1,42 @@
+[
+    {
+        "name": "grand ma",
+        "description": "Granny can make the best chocolate chip!",
+        "img": "https://cdn-icons-png.flaticon.com/512/4855/4855802.png",
+        "initial_price": 50,
+        "cps": 3,
+        "multiplier": 1.3
+    },
+    {
+        "name": "Farm",
+        "description": "Start seeding your cookies from the magical farm!",
+        "img": "https://cdn-icons-png.flaticon.com/512/1677/1677541.png",
+        "initial_price": 500,
+        "cps": 12,
+        "multiplier": 1.5
+    },
+    {
+        "name": "Factory",
+        "description": "Chookie and Cookie factory!",
+        "img": "https://cdn-icons-png.flaticon.com/512/5613/5613375.png",
+        "initial_price": 5000,
+        "cps": 30,
+        "multiplier": 1.7
+    },
+    {
+        "name": "Mine ",
+        "description": "Mine for more cookies!",
+        "img": "https://cdn-icons-png.flaticon.com/512/2736/2736385.png",
+        "initial_price": 50000,
+        "cps": 100,
+        "multiplier": 1.7
+    },
+    {
+        "name": "Alchemy Lab",
+        "description": "Convert gold to cookies!",
+        "img": "https://cdn-icons-png.flaticon.com/512/4831/4831062.png",
+        "initial_price": 5000000,
+        "cps": 3000,
+        "multiplier": 1.7
+    }
+]
