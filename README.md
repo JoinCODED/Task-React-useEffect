@@ -12,3 +12,6 @@ its stressing me out, boss wants this ready in 30 mins before his 6 hours flight
 the items will start to increase the cookies each second automatically for you<br/>
 i did it all EXCEPT one thing! i cant seem to let the items increase the number of cookies each second 😭 <br/>
 i need something to get triggred by the cookies and gets incremented each second, note that each item has a different cookie per second rate, so yeah if you do this in 30 min i'll buy ur coffee for the whole week (with cream and caramel and all the stuff added to coffee)🙏🏼
+
+stressfully,<br/>
+ur friend at work 
