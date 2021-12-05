@@ -2,7 +2,7 @@
 
 ## Instructions
 
-fork [this repo](https://github.com/JoinCODED/Task-React-useEffect) clone and open in VScode, `yarn install` then `yarn start`
+fork [this repo](https://github.com/JoinCODED/Task-React-useEffect) clone and open in VScode, `npm install` then `npm start`
 
 ### from : you friend at work 
 ### to : you 
